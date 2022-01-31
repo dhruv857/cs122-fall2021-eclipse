@@ -1,4 +1,4 @@
-package classSamples.gui_5.RubberLines;
+package classSamples.gui5.RubberLines;
 
 import javafx.application.Application;
 import javafx.scene.Group;

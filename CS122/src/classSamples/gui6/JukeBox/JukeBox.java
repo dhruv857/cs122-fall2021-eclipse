@@ -1,4 +1,4 @@
-package classSamples.gui_6.JukeBox;
+package classSamples.gui6.JukeBox;
 
 import java.io.File;
 import javafx.application.Application;

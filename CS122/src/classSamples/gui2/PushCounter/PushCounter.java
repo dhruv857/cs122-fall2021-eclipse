@@ -1,4 +1,4 @@
-package classSamples.gui_2.PushCounter;
+package classSamples.gui2.PushCounter;
 
 import javafx.application.Application;
 import javafx.event.ActionEvent;

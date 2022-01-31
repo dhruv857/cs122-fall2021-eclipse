@@ -1,4 +1,4 @@
-package classSamples.gui_1.HelloJavaFX;//************************************************************************
+package classSamples.gui1.HelloJavaFX;//************************************************************************
 //  HelloJavaFX.java       Author: Lewis/Loftus
 //
 //  Demonstrates a basic JavaFX application.

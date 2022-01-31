@@ -1,4 +1,4 @@
-package classSamples.gui_2.FahrenheitConverter;
+package classSamples.gui2.FahrenheitConverter;
 
 import javafx.application.Application;
 import javafx.scene.Scene;

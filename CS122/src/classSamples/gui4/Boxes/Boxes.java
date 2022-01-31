@@ -1,4 +1,4 @@
-package classSamples.gui_4.Boxes;
+package classSamples.gui4.Boxes;
 
 import java.util.Random;
 import javafx.application.Application;

@@ -1,4 +1,4 @@
-package classSamples.gui_2.ArcDisplay;
+package classSamples.gui2.ArcDisplay;
 
 import javafx.application.Application;
 import javafx.scene.Scene;

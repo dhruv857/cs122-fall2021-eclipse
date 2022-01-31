@@ -1,4 +1,4 @@
-package classSamples.gui_7.EvenOdd;
+package classSamples.gui7.EvenOdd;
 
 import java.util.Optional;
 import javafx.application.Application;

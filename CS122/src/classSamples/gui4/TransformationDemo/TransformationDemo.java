@@ -1,4 +1,4 @@
-package classSamples.gui_4.TransformationDemo;
+package classSamples.gui4.TransformationDemo;
 
 import javafx.application.Application;
 import javafx.scene.Group;

@@ -1,4 +1,4 @@
-package classSamples.gui_4.Robots;
+package classSamples.gui4.Robots;
 
 import javafx.scene.Group;
 import javafx.scene.paint.Color;

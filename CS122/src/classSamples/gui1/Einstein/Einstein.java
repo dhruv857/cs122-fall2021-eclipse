@@ -1,4 +1,4 @@
-package classSamples.gui_1.Einstein;//************************************************************************
+package classSamples.gui1.Einstein;//************************************************************************
 //  Einstein.java       Author: Lewis/Loftus
 //
 //  Demonstrates the use of various shape classes.

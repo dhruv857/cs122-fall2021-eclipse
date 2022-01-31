@@ -1,4 +1,4 @@
-package classSamples.gui_3.QuoteOptions;
+package classSamples.gui3.QuoteOptions;
 
 import javafx.application.Application;
 import javafx.geometry.Pos;

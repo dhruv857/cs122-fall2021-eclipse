@@ -1,4 +1,4 @@
-package classSamples.gui_2.ImageDisplay;
+package classSamples.gui2.ImageDisplay;
 
 import javafx.application.Application;
 import javafx.geometry.Rectangle2D;

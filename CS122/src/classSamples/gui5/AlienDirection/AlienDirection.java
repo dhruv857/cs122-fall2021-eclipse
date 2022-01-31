@@ -1,4 +1,4 @@
-package classSamples.gui_5.AlienDirection;
+package classSamples.gui5.AlienDirection;
 
 import javafx.application.Application;
 import javafx.scene.Group;

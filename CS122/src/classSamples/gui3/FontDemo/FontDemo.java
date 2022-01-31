@@ -1,4 +1,4 @@
-package classSamples.gui_3.FontDemo;
+package classSamples.gui3.FontDemo;
 
 import javafx.application.Application;
 import javafx.scene.Scene;

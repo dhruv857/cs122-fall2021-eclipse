@@ -1,4 +1,4 @@
-package classSamples.gui_2.FahrenheitConverter;
+package classSamples.gui2.FahrenheitConverter;
 
 import javafx.event.ActionEvent;
 import javafx.geometry.HPos;

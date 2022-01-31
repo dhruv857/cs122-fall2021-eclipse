@@ -1,4 +1,4 @@
-package classSamples.gui_6.Dots;
+package classSamples.gui6.Dots;
 
 import javafx.application.Application;
 import javafx.scene.Group;

@@ -1,4 +1,4 @@
-package classSamples.gui_7.DisplayFile;
+package classSamples.gui7.DisplayFile;
 
 import java.io.File;
 import java.io.IOException;

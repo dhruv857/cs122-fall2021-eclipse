@@ -1,4 +1,4 @@
-package classSamples.gui_panes_demo;
+package classSamples.guipanes_demo;
 
 import javafx.application.Application;
 import javafx.geometry.Pos;

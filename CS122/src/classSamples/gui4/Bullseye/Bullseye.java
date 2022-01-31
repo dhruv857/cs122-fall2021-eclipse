@@ -1,4 +1,4 @@
-package classSamples.gui_4.Bullseye;
+package classSamples.gui4.Bullseye;
 
 import javafx.application.Application;
 import javafx.scene.Group;

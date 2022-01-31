@@ -1,4 +1,4 @@
-package classSamples.gui_3.StyleOptions;
+package classSamples.gui3.StyleOptions;
 
 import javafx.event.ActionEvent;
 import javafx.geometry.Pos;

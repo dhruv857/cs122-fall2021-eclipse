@@ -1,4 +1,4 @@
-package classSamples.gui_6.Rocket;
+package classSamples.gui6.Rocket;
 
 import javafx.application.Application;
 import javafx.scene.Group;

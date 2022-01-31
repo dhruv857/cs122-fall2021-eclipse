@@ -1,4 +1,4 @@
-package classSamples.gui_1.Snowman;//************************************************************************
+package classSamples.gui1.Snowman;//************************************************************************
 //  Snowman.java       Author: Lewis/Loftus
 //
 //  Demonstrates the translation of a set of shapes.

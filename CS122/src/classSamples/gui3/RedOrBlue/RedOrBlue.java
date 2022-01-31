@@ -1,4 +1,4 @@
-package classSamples.gui_3.RedOrBlue;
+package classSamples.gui3.RedOrBlue;
 
 import javafx.application.Application;
 import javafx.event.ActionEvent;

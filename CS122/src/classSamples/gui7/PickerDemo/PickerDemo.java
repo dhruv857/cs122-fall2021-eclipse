@@ -1,4 +1,4 @@
-package classSamples.gui_7.PickerDemo;
+package classSamples.gui7.PickerDemo;
 
 import java.time.LocalDate;
 import javafx.application.Application;

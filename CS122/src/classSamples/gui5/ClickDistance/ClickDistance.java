@@ -1,4 +1,4 @@
-package classSamples.gui_5.ClickDistance;
+package classSamples.gui5.ClickDistance;
 
 import javafx.application.Application;
 import javafx.scene.Group;
